@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MERN Stack User Management CRUD Application
 
 A full-stack MERN (MongoDB, Express.js, React.js, Node.js) CRUD application for managing users.  
@@ -239,3 +240,7 @@ GitHub:
 https://github.com/IgnasValiukas
 
 ---
+=======
+# MERN-APP
+A full-stack MERN (MongoDB, Express.js, React.js, Node.js) CRUD application for managing users.   This project allows users to create, read, update, and delete user records through a modern responsive interface connected to a RESTful API.
+>>>>>>> 466783d6f16bc4bd5219d44068cb80a892533add
